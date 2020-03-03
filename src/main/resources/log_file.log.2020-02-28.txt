@@ -1,0 +1,189 @@
+2020-02-28 10:21 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 10:21 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-28 10:21 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 10:21 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:22 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:23 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:23 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:24 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:24 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:25 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:25 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:26 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:27 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:27 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:27 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:27 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:29 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:29 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:30 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:30 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:31 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:32 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:33 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:34 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:34 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:35 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:35 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:36 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:37 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:37 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:40 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:41 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:43 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:49 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 10:56 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 10:56 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 10:56 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 10:56 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 12:07 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 12:07 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-28 12:07 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 12:07 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 12:07 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-28 12:07 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-28 12:07 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 12:07 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-28 12:07 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-28 12:07 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-02-28 12:07 [TRACE] CookieShoppingCartServiceImpl:    28 - Add cookie
+2020-02-28 12:07 [TRACE] CookieShoppingCartServiceImpl:    28 - Add cookie
+2020-02-28 12:07 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-28 12:08 [TRACE] CookieShoppingCartServiceImpl:    41 - Add one cookie to cookie value
+2020-02-28 12:08 [TRACE] CookieShoppingCartServiceImpl:    41 - Add one cookie to cookie value
+2020-02-28 12:08 [TRACE] CookieShoppingCartServiceImpl:    41 - Add one cookie to cookie value
+2020-02-28 12:08 [TRACE] CookieShoppingCartServiceImpl:    41 - Add one cookie to cookie value
+2020-02-28 12:08 [TRACE] CookieShoppingCartServiceImpl:    41 - Add one cookie to cookie value
+2020-02-28 12:08 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-28 12:08 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-28 12:08 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-28 12:08 [ INFO]    OrderActionsController:    57 - Order created! All cookie removed!
+2020-02-28 12:08 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-28 12:08 [TRACE]          OrderServiceImpl:    51 - Optional FullOrderInfo is present
+2020-02-28 12:08 [TRACE]          OrderServiceImpl:    51 - Optional FullOrderInfo is present
+2020-02-28 12:08 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 12:22 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 12:22 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 12:22 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 12:22 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 12:23 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 12:24 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 12:25 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-28 12:25 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-28 12:25 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-28 12:25 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 12:26 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-28 12:26 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-28 12:26 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-02-28 12:26 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:26 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 13:26 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 13:26 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 13:26 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:28 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:29 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:37 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 13:37 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 13:37 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 13:37 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:38 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:39 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:39 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:40 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:40 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:41 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 13:41 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 13:41 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 13:41 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:43 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 13:43 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 13:43 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 13:43 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 13:54 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 14:00 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 14:00 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 14:00 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 14:00 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 14:03 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:23 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 15:23 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 15:23 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 15:23 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:32 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 15:32 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 15:32 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 15:32 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:33 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:38 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:38 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-28 15:38 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:39 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:40 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:43 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:47 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 15:49 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-28 15:49 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 16:04 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 16:04 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 16:04 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 16:04 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 16:06 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 16:21 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 16:21 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 16:21 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 16:21 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 19:18 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 19:18 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 19:18 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 19:18 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 19:31 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 19:31 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 19:31 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:05 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-28 20:05 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 20:05 [ INFO] AuthorizationSessionFilter:    40 - Reinstall user session from cookie
+2020-02-28 20:05 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:08 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:08 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:09 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:11 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:12 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:12 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:14 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:14 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:15 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:16 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:17 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-28 20:17 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-28 20:20 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:20 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-28 20:20 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:21 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-28 20:21 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:22 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:22 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-28 20:22 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-28 20:22 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST
+2020-02-28 20:23 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-28 20:23 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-28 20:23 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-02-28 20:23 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:28 [TRACE]          LocaleController:    36 - Install Ukrainian bundle
+2020-02-28 20:28 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-28 20:33 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-28 20:33 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-28 20:33 [TRACE]          OrderServiceImpl:    51 - Optional FullOrderInfo is present
+2020-02-28 20:33 [TRACE]          OrderServiceImpl:    51 - Optional FullOrderInfo is present
+2020-02-28 20:33 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-28 20:33 [TRACE]          OrderServiceImpl:    51 - Optional FullOrderInfo is present
+2020-02-28 20:33 [TRACE]          OrderServiceImpl:    51 - Optional FullOrderInfo is present
+2020-02-28 20:34 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-28 20:34 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-28 20:34 [TRACE]          LocaleController:    36 - Install Ukrainian bundle
+2020-02-28 20:34 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:34 [TRACE]         DetailsController:    23 - detailsService init
+2020-02-28 20:34 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-28 20:35 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-28 20:35 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-28 20:35 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-28 20:35 [ INFO] AuthorizationSessionFilter:    45 - Install GUEST session with attribute GUEST

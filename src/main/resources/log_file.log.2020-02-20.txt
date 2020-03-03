@@ -1,0 +1,137 @@
+2020-02-20 15:35 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 15:35 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 15:35 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-20 15:35 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 15:35 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-20 15:37 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 15:37 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 15:37 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 15:37 [TRACE]        ProductServiceImpl:    59 - sortingSmartphone
+2020-02-20 15:39 [TRACE]    RegistrationController:    29 - Init in RegistrationController worked
+2020-02-20 15:39 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-02-20 15:39 [TRACE]    DataEnteredHandlerImpl:    29 - Name validation success
+2020-02-20 15:39 [TRACE]    DataEnteredHandlerImpl:    29 - Name validation success
+2020-02-20 15:39 [TRACE]    DataEnteredHandlerImpl:    39 - Phone number validation success
+2020-02-20 15:39 [TRACE]    DataEnteredHandlerImpl:    49 - Password validate success
+2020-02-20 15:39 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-02-20 15:39 [ INFO]           UserCreatorImpl:    39 - Entered data in registration fields is correct
+2020-02-20 15:39 [ INFO]    RegistrationController:    54 - User created and added to DB
+2020-02-20 15:39 [ INFO]      FilterForUserInLogin:    28 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-20 15:42 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 15:42 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 15:43 [TRACE]    RegistrationController:    29 - Init in RegistrationController worked
+2020-02-20 15:43 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-02-20 15:43 [TRACE]    DataEnteredHandlerImpl:    29 - Name validation success
+2020-02-20 15:43 [TRACE]    DataEnteredHandlerImpl:    29 - Name validation success
+2020-02-20 15:43 [TRACE]    DataEnteredHandlerImpl:    39 - Phone number validation success
+2020-02-20 15:43 [TRACE]    DataEnteredHandlerImpl:    49 - Password validate success
+2020-02-20 15:43 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-02-20 15:43 [ INFO]           UserCreatorImpl:    39 - Entered data in registration fields is correct
+2020-02-20 15:43 [ INFO]    RegistrationController:    45 - User with this email already exist
+2020-02-20 15:43 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 15:45 [TRACE] CookieShoppingCartServiceImpl:    37 - Delete one cookie from value
+2020-02-20 20:46 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 20:46 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 20:46 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 20:46 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 20:46 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 20:46 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 20:46 [TRACE]        ProductServiceImpl:    59 - sortingSmartphone
+2020-02-20 20:46 [TRACE]        ProductServiceImpl:    64 - sortingTablet
+2020-02-20 20:46 [TRACE]        ProductServiceImpl:    74 - sortingTV
+2020-02-20 20:46 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 20:46 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 20:47 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-20 20:47 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-20 20:49 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 20:49 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 20:49 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 20:49 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 20:49 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 20:49 [ INFO]      FilterForUserInLogin:    28 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-20 20:50 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 20:50 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-20 20:50 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 20:50 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 20:53 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 20:53 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 20:53 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 20:53 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 20:53 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 20:53 [ INFO]      FilterForUserInLogin:    28 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-20 20:53 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 20:53 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 20:53 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 21:15 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 21:15 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 21:16 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 21:16 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 21:16 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 21:16 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 21:16 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 21:16 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 21:16 [ERROR]             OrderDaoMySql:    51 - problem with creating order Order{id=101, userId=1, productId='1000000010|1000000010|1000000011|', quantity='3|3|2|', totalPrice=163995, data=2020-02-20, time=21:16:17}
+2020-02-20 21:19 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 21:19 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 21:19 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 21:19 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 21:19 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 21:19 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 21:19 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 21:19 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 21:19 [ERROR]             OrderDaoMySql:    51 - problem with creating order Order{id=101, userId=1, productId='1000000010:1000000010:1000000011:', quantity='3:3:2:', totalPrice=163995, data=2020-02-20, time=21:19:51}
+2020-02-20 21:23 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 21:23 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 21:24 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 21:24 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 21:24 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 21:24 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 21:24 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 21:24 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 21:24 [ERROR]             OrderDaoMySql:    51 - problem with creating order Order{id=101, userId=1, productId='100000001010000000101000000011', quantity='332', totalPrice=163995, data=2020-02-20, time=21:24:08}
+2020-02-20 21:26 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 21:26 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 21:26 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 21:26 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 21:26 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 21:26 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 21:26 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 21:26 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 21:26 [ERROR]             OrderDaoMySql:    51 - problem with creating order Order{id=101, userId=1, productId='1000000010|1000000010|1000000011|', quantity='3|3|2|', totalPrice=163995, data=2020-02-20, time=21:26:48}
+2020-02-20 21:29 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 21:29 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 21:29 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 21:29 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 21:29 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 21:29 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 21:29 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 21:29 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 22:35 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 22:36 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 22:36 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 22:36 [TRACE] CookieShoppingCartServiceImpl:    29 - Remove All cookie
+2020-02-20 22:36 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-20 22:36 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-20 22:36 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 22:36 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 22:36 [TRACE]    OrderActionsController:    36 - cookieShoppingCartService initialization
+2020-02-20 22:36 [TRACE]    OrderActionsController:    62 - User doesn't have authorization! Redirect to login page.
+2020-02-20 22:36 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 22:36 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 22:36 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 22:36 [ INFO]    OrderActionsController:    57 - Order created! All cookie removed!
+2020-02-20 22:36 [TRACE]    OrderSuccessController:    23 - orderService initialization
+2020-02-20 22:44 [ INFO]    InitializationListener:   102 - ContextListener initialized!
+2020-02-20 22:44 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-20 22:44 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-20 22:44 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-20 22:44 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-20 22:44 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-20 22:45 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-20 22:45 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-20 22:45 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-20 22:45 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-20 22:45 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-20 22:45 [TRACE]    OrderActionsController:    36 - cookieShoppingCartService initialization
+2020-02-20 22:45 [ INFO]    OrderActionsController:    57 - Order created! All cookie removed!
+2020-02-20 22:45 [TRACE]    OrderSuccessController:    23 - orderService initialization

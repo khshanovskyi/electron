@@ -1,0 +1,194 @@
+body{
+    background-color: #ffffff;
+}
+
+header{
+    border-bottom: 1px #e69500 solid;
+    background-color: #ffffff  ;
+    color: #ffffff;
+    width: 100%;
+    height: 60px;
+}
+
+.navbarMenu{
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+}
+
+.leftPartNavbar{
+    background-color: #131313  ;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+.brandNameField{
+    padding-left: 10px;
+    height: 100%;
+    width: 40%;
+    float: left;
+}
+
+
+#electronLabel{
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 3px;
+    font-size: xx-large;
+    border:3px #131313 solid;
+}
+
+#electronLabel:hover{
+    border-bottom: 3px #e69500 solid;
+    border-top: 3px #e69500 solid;
+    border-left: 3px #e69500 solid;
+    border-right:  #e69500 solid;
+    transition: border-bottom 0.4s, border-left 0.8s, border-top 1.5s, border-right 0.8s, cubic-bezier(.58,.3,.36,1.54) 1s;
+}
+
+.centerLeftPartTriangle{
+    float: left;
+    width: 0;
+    height: 0;
+    border-top: 60px solid #131313  ;
+    border-right: 60px solid #e69500;
+}
+
+.centerPartNavbar{
+    float: left;
+    background-color: #e69500 ;
+    height: 100%;
+    width: 10%;
+
+}
+
+.centerRightPartTriangle{
+    float: left;
+    width: 0;
+    height: 0;
+    border-top: 60px solid #e69500;
+    border-right: 60px solid transparent;
+}
+
+.rightPartNavbar{
+    text-align: right;
+    float: left;
+    background-color: #ffffff  ;
+    width: 25%;
+    height: 100%;
+    color: black;
+
+}
+
+
+#userRegistrateBtn{
+    border: 0;
+    background-color: #ffffff;
+    height: 92%;
+    width: 30%;
+    margin-top: 3px;
+    margin-left: 69%;
+}
+
+#userRegistrImg{
+    height: 90%;
+    width: 80%;
+}
+
+#userRegistrImg:hover{
+    height: 100%;
+    width: 95%;
+    transform: rotateY(5deg);
+}
+
+main{
+    text-align: center;
+    width: 100%;
+}
+
+#loginOutsideBorder{
+    justify-content: center;
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    border: 1px #131313 solid ;
+    text-align: center;
+}
+
+#loginOutsideBorder:hover{
+    border: 1px #e69500 solid ;
+    transition: border 0.3s;
+}
+
+.inputField{
+    text-align: center;
+    width: 60%;
+    border:1px #131313 solid ;
+}
+
+.inputField:hover{
+    border:1px #e69500 solid ;
+    transition: border 0.3s;
+}
+
+#loginBtn{
+    margin: 2%;
+    border:1px #131313 solid ;
+    background-color: #ffffff;
+    text-align: center;
+    width: 20%;
+    font-weight: 600;
+}
+
+#loginBtn:hover{
+    border:1px #e69500 solid ;
+    background-color: #e69500;
+    width: 25%;
+    font-weight: 700;
+    transition: background-color 0.3s, width 0.3s, font-weight 0.3s;
+}
+
+a{
+    display: block;
+}
+
+footer{
+    display: inline;
+}
+
+#forLocale{
+    display: inline-block;
+    width: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 45%;
+    margin-right: 45%;
+    height: 30px;
+}
+
+.forLocaleBtn{
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+}
+
+#localeBtnEN, #localeBtnRU, #localeBtnUK{
+    text-align: center;
+    background-color: #ffffff;
+    border:0;
+    width: 100%;
+    height: 100%;
+}
+
+#localeBtnEN:hover, #localeBtnRU:hover, #localeBtnUK:hover{
+    background-color: #131313;
+    color: #ffffff;
+    width: 100%;
+    height: 100%;
+    transition: background-color 0.3s, color 0.3s;
+}

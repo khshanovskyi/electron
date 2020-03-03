@@ -1,0 +1,143 @@
+2020-03-02 13:57 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 13:57 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 13:57 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 13:57 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-02 13:57 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 13:57 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 13:57 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 13:57 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 13:57 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 13:57 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 13:57 [ERROR]              UserDaoMySql:   183 - Problem with updating user 102
+2020-03-02 13:58 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 13:58 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 13:58 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 13:58 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 13:58 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 13:58 [ERROR]              UserDaoMySql:   183 - Problem with updating user 102
+2020-03-02 14:02 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 14:02 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-02 14:02 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 14:02 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 14:02 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 14:03 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 14:03 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 14:03 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 14:03 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 14:03 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 14:03 [ERROR]              UserDaoMySql:   183 - Problem with updating user 102
+2020-03-02 14:06 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 14:06 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-02 14:06 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 14:06 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 14:06 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 14:07 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 14:07 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 14:07 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 14:07 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 14:07 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 14:07 [ERROR]              UserDaoMySql:   183 - Problem with updating user 102
+2020-03-02 14:24 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 14:24 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-02 14:24 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 14:24 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 14:24 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 14:25 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 14:25 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 14:25 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 14:25 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 14:25 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 14:25 [ERROR]         ConnectionManager:    29 - Cannot rollback connection
+2020-03-02 14:25 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 14:25 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 14:25 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 14:25 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 14:25 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 14:25 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 14:25 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 14:25 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 14:25 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 14:25 [ERROR]              UserDaoMySql:   184 - Problem with updating user 102
+2020-03-02 14:32 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 14:32 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 14:32 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 14:32 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 14:32 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 14:32 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 14:32 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 14:32 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 14:32 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 14:32 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 14:33 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-02 14:33 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 15:59 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 16:00 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 16:00 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 16:00 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 16:00 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 16:00 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 16:00 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 16:00 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 16:00 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 17:00 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 17:00 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 17:00 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 17:00 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 17:01 [TRACE]   UserInterfaceController:    32 - In post method
+2020-03-02 17:01 [TRACE]   UserInterfaceController:    36 - SUBMIT_CHANGE_EMAIL != null
+2020-03-02 17:01 [TRACE]   UserInterfaceController:    38 - EMAIL not existing
+2020-03-02 17:01 [TRACE]    DataEnteredHandlerImpl:    19 - Email validation success
+2020-03-02 17:01 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 17:01 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 17:02 [TRACE]   UserInterfaceController:    58 - In get method
+2020-03-02 17:53 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 17:54 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 17:54 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 17:54 [TRACE]   UserInterfaceController:    63 - In get method
+2020-03-02 17:54 [TRACE]    DataEnteredHandlerImpl:    39 - Phone number validation success
+2020-03-02 17:54 [TRACE]   UserInterfaceController:    63 - In get method
+2020-03-02 18:10 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 18:10 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 18:10 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 18:10 [TRACE]   UserInterfaceController:    75 - In get method
+2020-03-02 18:11 [TRACE]    DataEnteredHandlerImpl:    49 - Password validate success
+2020-03-02 18:11 [TRACE]    DataEnteredHandlerImpl:    59 - Password confirmed
+2020-03-02 18:11 [TRACE]   UserInterfaceController:    75 - In get method
+2020-03-02 18:36 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 18:36 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 18:36 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 18:36 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 18:37 [ INFO]    DataEnteredHandlerImpl:    32 - Name is not valid
+2020-03-02 18:37 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 18:51 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 18:51 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 18:51 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 18:51 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 18:51 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-02 18:51 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 18:51 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-02 18:51 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 19:32 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 19:32 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-02 19:32 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 19:32 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 19:32 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 19:32 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-03-02 19:32 [TRACE]          LogoutController:    29 - User session invalidated
+2020-03-02 19:32 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 19:32 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-03-02 19:32 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-03-02 19:32 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-03-02 19:32 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 19:32 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-02 19:37 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-02 19:37 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-02 19:37 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-02 19:37 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-02 19:37 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 19:37 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-02 19:38 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 19:38 [TRACE]         DetailsController:    23 - detailsService init
+2020-03-02 19:38 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-03-02 19:38 [TRACE]   UserInterfaceController:    96 - In get method
+2020-03-02 19:38 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders

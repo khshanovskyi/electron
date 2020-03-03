@@ -1,0 +1,9 @@
+2020-03-03 11:24 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 11:25 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 11:25 [ INFO] AuthorizationSessionFilter:    53 - Install GUEST session with attribute GUEST
+2020-03-03 11:25 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-03-03 11:25 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-03-03 11:25 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-03-03 11:26 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 11:26 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 11:26 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization

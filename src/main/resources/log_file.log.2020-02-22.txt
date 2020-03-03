@@ -1,0 +1,415 @@
+2020-02-22 00:01 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:01 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:01 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:01 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:02 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:03 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:03 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:03 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:03 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:04 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:04 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:06 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:06 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:06 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:06 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:06 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:06 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:07 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:07 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:07 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:07 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:07 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:07 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:08 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:08 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:08 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:08 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:10 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-22 00:10 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:10 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:11 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:11 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:13 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:13 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:13 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:13 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:15 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:16 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:16 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:16 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:16 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:16 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 00:16 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 00:17 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:17 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 00:18 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-22 00:18 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-22 00:18 [TRACE]    OrderActionsController:    36 - cookieShoppingCartService initialization
+2020-02-22 00:18 [TRACE]    OrderActionsController:    62 - User doesn't have authorization! Redirect to login page.
+2020-02-22 00:18 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-22 00:18 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 00:18 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-22 00:18 [ INFO]    OrderActionsController:    57 - Order created! All cookie removed!
+2020-02-22 00:18 [TRACE]    OrderSuccessController:    24 - orderService initialization
+2020-02-22 00:18 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:18 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:18 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-22 00:18 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:18 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:21 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 00:21 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:32 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 09:32 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 09:32 [TRACE]    OrderSuccessController:    24 - orderService initialization
+2020-02-22 09:32 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 09:32 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 09:32 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-22 09:32 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-22 09:32 [TRACE]    OrderActionsController:    36 - cookieShoppingCartService initialization
+2020-02-22 09:32 [TRACE]    OrderActionsController:    62 - User doesn't have authorization! Redirect to login page.
+2020-02-22 09:33 [TRACE]   AuthorizationController:    26 - Init in AuthorizationController worked
+2020-02-22 09:33 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 09:33 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-22 09:33 [ INFO]    OrderActionsController:    57 - Order created! All cookie removed!
+2020-02-22 09:33 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:33 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:33 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-22 09:33 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:33 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:34 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:34 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:34 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-22 09:34 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:34 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:35 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:35 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:36 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:36 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 09:38 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 09:38 [TRACE]   AuthorizationController:    45 - Have UNBLOCKED user in login
+2020-02-22 12:05 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 12:05 [ INFO]    InitializationListener:   110 - ContextListener destroyed!
+2020-02-22 12:05 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 12:05 [ INFO]    InitializationListener:   110 - ContextListener destroyed!
+2020-02-22 12:07 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 12:07 [ INFO]    InitializationListener:   110 - ContextListener destroyed!
+2020-02-22 12:09 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 12:09 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 12:09 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 12:11 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 12:11 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 12:13 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-22 12:13 [TRACE]          LocaleController:    36 - Install Ukrainian bundle
+2020-02-22 12:13 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 12:13 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 12:13 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 12:13 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 12:13 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 12:13 [TRACE]    OrderActionsController:    31 - orderService initialization
+2020-02-22 12:13 [TRACE]    OrderActionsController:    34 - presenterProductFromCookieService initialization
+2020-02-22 12:13 [TRACE]    OrderActionsController:    36 - cookieShoppingCartService initialization
+2020-02-22 12:13 [TRACE]    OrderActionsController:    62 - User doesn't have authorization! Redirect to login page.
+2020-02-22 12:13 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-22 12:13 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 12:13 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 12:14 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 12:14 [ INFO]    OrderActionsController:    57 - Order created! All cookie removed!
+2020-02-22 12:14 [TRACE]    OrderSuccessController:    24 - orderService initialization
+2020-02-22 12:14 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 12:14 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 12:16 [TRACE]         DetailsController:    23 - detailsService init
+2020-02-22 12:16 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-22 12:16 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 12:16 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-22 12:16 [ INFO]    OrderActionsController:    57 - Order created! All cookie removed!
+2020-02-22 12:16 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 12:16 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 12:19 [TRACE]        ProductServiceImpl:    44 - sortByName
+2020-02-22 12:22 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-22 12:22 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-22 12:23 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-22 12:23 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-22 12:23 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-22 12:27 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 12:27 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 14:40 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 14:40 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 14:41 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 14:41 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 14:49 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 14:49 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 14:51 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 14:51 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 14:52 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 14:53 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 14:54 [TRACE]        ProductServiceImpl:    44 - sortingSmartphone
+2020-02-22 14:54 [TRACE]        ProductServiceImpl:    49 - sortingTablet
+2020-02-22 14:54 [TRACE]        ProductServiceImpl:    59 - sortingTV
+2020-02-22 14:54 [TRACE]        ProductServiceImpl:    54 - sortingLaptop
+2020-02-22 14:54 [TRACE]        ProductServiceImpl:    54 - sortingLaptop
+2020-02-22 14:59 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 14:59 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 20:58 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 20:58 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 21:01 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 21:01 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 21:02 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 21:02 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 21:02 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 21:02 [TRACE]        ProductServiceImpl:    44 - sortingSmartphone
+2020-02-22 21:02 [TRACE]        ProductServiceImpl:    49 - sortingTablet
+2020-02-22 21:52 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 21:52 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 21:52 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 21:52 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 21:52 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 21:52 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 21:53 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 21:53 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 21:53 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-22 21:53 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-22 21:53 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-22 21:53 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-22 21:53 [TRACE]    OrderActionsController:    63 - User doesn't have authorization! Redirect to login page.
+2020-02-22 21:53 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-22 21:53 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 21:53 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 21:53 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 21:53 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 21:53 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:53 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:53 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:54 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:54 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]           FilterBlockUser:    29 - Block user trying to use our resource
+2020-02-22 21:55 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 21:55 [ INFO] FilterForGuestsToBLOCKEDPage:    31 - Guest trying to go on BLOCKED page, do redirect to electronics page
+2020-02-22 21:55 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 21:55 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 21:55 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 21:55 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 21:55 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-22 21:55 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-22 21:55 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-22 21:55 [ INFO]    OrderActionsController:    58 - Order created! All cookie removed!
+2020-02-22 21:55 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-22 21:55 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 21:55 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:11 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:12 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-22 22:12 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:12 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:12 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:12 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:12 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:12 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:18 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:18 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:18 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:18 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:18 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:18 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:18 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:18 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:18 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:18 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:20 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:20 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:20 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 22:20 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-22 22:20 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-22 22:20 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-22 22:20 [ INFO]    OrderActionsController:    58 - Order created! All cookie removed!
+2020-02-22 22:20 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-22 22:20 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:20 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:20 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-22 22:20 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 22:20 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:20 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:34 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:34 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:34 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:34 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:34 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:34 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-22 22:34 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-22 22:34 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:43 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:43 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 22:43 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:43 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:43 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 22:43 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:43 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-22 22:43 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-22 22:43 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-22 22:43 [TRACE]    OrderActionsController:    63 - User doesn't have authorization! Redirect to login page.
+2020-02-22 22:43 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-22 22:43 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 22:43 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 22:43 [ INFO]    OrderActionsController:    58 - Order created! All cookie removed!
+2020-02-22 22:43 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-22 22:43 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:43 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:46 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:46 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-22 22:46 [ INFO]   AccessToOrderInfoFilter:    28 - Customer without authorization trying to going on order-success page! Do redirect to login page!
+2020-02-22 22:48 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:48 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:48 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 22:48 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 22:48 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-22 22:48 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-22 22:48 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-22 22:48 [TRACE]    OrderActionsController:    63 - User doesn't have authorization! Redirect to login page.
+2020-02-22 22:48 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-22 22:48 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 22:48 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 22:48 [ INFO]    OrderActionsController:    58 - Order created! All cookie removed!
+2020-02-22 22:48 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:48 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:48 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:49 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-22 22:49 [ INFO]   AccessToOrderInfoFilter:    27 - Customer without authorization trying to going on order-success page! Do redirect to login page!
+2020-02-22 22:49 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:49 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:50 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:50 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:50 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:51 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:51 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-22 22:51 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 22:51 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 22:51 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-22 22:51 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-22 22:51 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-22 22:51 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-22 22:51 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-22 22:51 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-22 22:51 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-22 22:51 [ INFO]    OrderActionsController:    58 - Order created! All cookie removed!
+2020-02-22 22:51 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-22 22:51 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:51 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-22 22:52 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-22 22:52 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:52 [ INFO]   AccessToOrderInfoFilter:    27 - Customer without authorization trying to going on order-success page! Do redirect to login page!
+2020-02-22 22:53 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-22 22:53 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-22 22:53 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-22 22:53 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-22 22:53 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization

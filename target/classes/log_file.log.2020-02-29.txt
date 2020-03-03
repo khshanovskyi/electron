@@ -1,0 +1,34 @@
+2020-02-29 10:36 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-29 10:36 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-29 13:25 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-29 13:26 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-29 13:28 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-29 13:28 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-29 13:28 [ INFO] AuthorizationSessionFilter:    53 - Install GUEST session with attribute GUEST
+2020-02-29 13:29 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-29 13:29 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-29 13:29 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-02-29 13:31 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-29 13:31 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-29 13:31 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-29 13:32 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-29 13:48 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-29 13:48 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-29 13:48 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-29 13:48 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-29 13:49 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-02-29 13:54 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-29 13:54 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-29 13:54 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-29 13:54 [TRACE]   UserInterfaceController:    59 - In get method
+2020-02-29 13:54 [TRACE]   UserInterfaceController:    32 - In post method
+2020-02-29 13:54 [TRACE]   UserInterfaceController:    50 - SUBMIT_CHANGE_EMAIL == null
+2020-02-29 13:54 [TRACE]   UserInterfaceController:    59 - In get method
+2020-02-29 14:00 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-29 14:00 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-29 14:00 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-29 14:00 [TRACE]   UserInterfaceController:    59 - In get method
+2020-02-29 14:01 [TRACE]   UserInterfaceController:    32 - In post method
+2020-02-29 14:01 [TRACE]   UserInterfaceController:    50 - SUBMIT_CHANGE_EMAIL == null
+2020-02-29 14:01 [TRACE]   UserInterfaceController:    59 - In get method
+2020-02-29 14:01 [TRACE]   UserInterfaceController:    59 - In get method

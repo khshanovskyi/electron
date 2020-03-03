@@ -1,0 +1,23 @@
+2020-03-03 11:24 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 11:25 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 11:25 [ INFO] AuthorizationSessionFilter:    53 - Install GUEST session with attribute GUEST
+2020-03-03 11:25 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-03-03 11:25 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-03-03 11:25 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-03-03 11:26 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 11:26 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 11:26 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-03-03 12:18 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 12:18 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 12:18 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 12:18 [TRACE]         DetailsController:    23 - detailsService init
+2020-03-03 12:18 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-03-03 12:18 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-03-03 12:18 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-03 12:18 [TRACE]          LocaleController:    36 - Install Ukrainian bundle
+2020-03-03 12:18 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-03 12:18 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-03-03 12:18 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-03 12:19 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-03-03 12:19 [TRACE]          LogoutController:    29 - User session invalidated
+2020-03-03 12:19 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST

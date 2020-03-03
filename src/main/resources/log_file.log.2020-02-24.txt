@@ -1,0 +1,136 @@
+2020-02-24 13:19 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 13:19 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 13:19 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 13:22 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 13:22 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 13:22 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 13:23 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-24 13:23 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-24 13:23 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-24 18:10 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 18:10 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 18:10 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:10 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 18:10 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:10 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-24 18:14 [TRACE]         DetailsController:    23 - detailsService init
+2020-02-24 18:14 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-24 18:14 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 18:14 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-02-24 18:14 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-24 18:14 [TRACE] CookieShoppingCartServiceImpl:    25 - Remove ONE cookie
+2020-02-24 18:14 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-24 18:17 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 18:17 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 18:17 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:17 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 18:17 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:23 [TRACE]          LocaleController:    36 - Install Ukrainian bundle
+2020-02-24 18:23 [TRACE]          LocaleController:    28 - Install English bundle
+2020-02-24 18:23 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-24 18:23 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-24 18:23 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-24 18:23 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-02-24 18:23 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-24 18:23 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-24 18:24 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 18:24 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 18:24 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:24 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 18:24 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:39 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-24 18:39 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-24 18:39 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-24 18:39 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-24 18:39 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-24 18:45 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-24 18:45 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-24 18:45 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:45 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-24 18:45 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-24 18:45 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 18:45 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 19:09 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 19:10 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 19:10 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 19:10 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 20:34 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-02-24 20:34 [TRACE]          LogoutController:    29 - User session invalidated
+2020-02-24 20:34 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 20:35 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-24 20:35 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-24 20:35 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-24 20:55 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 20:55 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 20:55 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 20:55 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 20:56 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 20:56 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 20:56 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 20:56 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 22:27 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 22:27 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 22:27 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 22:27 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 22:27 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 22:27 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-24 22:27 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-24 22:27 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-24 22:27 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-24 22:27 [ERROR]             OrderDaoMySql:    60 - problem with creating order Order{id=0, userId=1, productId='1000000006,', quantity='1,', totalPrice=112170, deliveryAddress='NONE', date=2020-02-24, time=22:27:26, orderStatus='IN_PROCESSING', comment='NOTHING'}
+2020-02-24 22:29 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 22:29 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 22:29 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 22:29 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 22:29 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 22:29 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-24 22:29 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-24 22:29 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-24 22:29 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-24 22:29 [ERROR]             OrderDaoMySql:    60 - problem with creating order Order{id=0, userId=1, productId='1000000006,', quantity='1,', totalPrice=112170, deliveryAddress='NOTHING', date=2020-02-24, time=22:29:26, orderStatus='IN_PROCESSING', comment='NOTHING'}
+2020-02-24 22:32 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 22:32 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 22:32 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 22:32 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-02-24 22:32 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 22:32 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-24 22:32 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-24 22:32 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-24 22:32 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-24 22:32 [ INFO]    OrderActionsController:    60 - Order created! All cookie removed!
+2020-02-24 22:32 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-24 22:32 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-24 22:32 [TRACE]          OrderServiceImpl:    41 - Optional FullOrderInfo is present
+2020-02-24 23:52 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-02-24 23:53 [TRACE]     ElectronicsController:    24 - productService init
+2020-02-24 23:53 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-02-24 23:53 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-02-24 23:53 [ INFO]           UserServiceImpl:    29 - Authorization not performed!
+2020-02-24 23:53 [ INFO]   AuthorizationController:    55 - User introduced not correct data
+2020-02-24 23:53 [ INFO]           UserServiceImpl:    26 - Authorization success
+2020-02-24 23:53 [TRACE]   AuthorizationController:    46 - Have UNBLOCKED user in login
+2020-02-24 23:53 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 23:53 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 23:53 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 23:53 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-02-24 23:53 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-24 23:53 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-24 23:54 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-24 23:54 [TRACE] CookieShoppingCartServiceImpl:    25 - Remove ONE cookie
+2020-02-24 23:54 [TRACE] CookieShoppingCartServiceImpl:    29 - Remove All cookie
+2020-02-24 23:54 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 23:54 [TRACE]    OrderActionsController:    32 - orderService initialization
+2020-02-24 23:54 [TRACE]    OrderActionsController:    35 - presenterProductFromCookieService initialization
+2020-02-24 23:54 [TRACE]    OrderActionsController:    37 - cookieShoppingCartService initialization
+2020-02-24 23:54 [ INFO]    OrderActionsController:    60 - Order created! All cookie removed!
+2020-02-24 23:54 [TRACE]    OrderSuccessController:    25 - orderService initialization
+2020-02-24 23:54 [TRACE]          OrderServiceImpl:    42 - Optional FullOrderInfo is present
+2020-02-24 23:54 [TRACE]          OrderServiceImpl:    42 - Optional FullOrderInfo is present
+2020-02-24 23:54 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 23:54 [TRACE] CookieShoppingCartServiceImpl:    20 - Add cookie
+2020-02-24 23:54 [TRACE] CookieShoppingCartServiceImpl:    33 - Add one cookie to cookie value
+2020-02-24 23:54 [ INFO]    OrderActionsController:    60 - Order created! All cookie removed!
+2020-02-24 23:54 [TRACE]          OrderServiceImpl:    42 - Optional FullOrderInfo is present
+2020-02-24 23:54 [TRACE]          OrderServiceImpl:    42 - Optional FullOrderInfo is present
+2020-02-24 23:57 [TRACE]          OrderServiceImpl:    42 - Optional FullOrderInfo is present
+2020-02-24 23:57 [TRACE]          OrderServiceImpl:    42 - Optional FullOrderInfo is present

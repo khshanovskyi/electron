@@ -11,7 +11,8 @@ import javax.servlet.http.*;
 import java.io.IOException;
 import java.util.Optional;
 
-@WebFilter(urlPatterns = {"/shopping-cart", "/details", "/electronics", "/order-success", "/user-interface", "/about-my-orders"})
+@WebFilter(urlPatterns = {"/shopping-cart", "/details", "/electronics", "/order-success", "/user-interface",
+        "/about-my-orders", "/admin-interface","/manager-interface", "/storekeeper-interface"})
 public class AuthorizationSessionFilter implements Filter {
 
     private static final Logger LOGGER = Logger.getLogger(AuthorizationSessionFilter.class);
@@ -27,6 +28,7 @@ public class AuthorizationSessionFilter implements Filter {
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
         HttpServletRequest req = (HttpServletRequest) servletRequest;
+        HttpServletResponse resp = (HttpServletResponse) servletResponse;
         HttpSession session = req.getSession();
         Cookie[] cookies = req.getCookies();
 
@@ -44,6 +46,8 @@ public class AuthorizationSessionFilter implements Filter {
                         if (session.getAttribute(String.valueOf(Constant.GUEST)) == null){
                             session.setAttribute(String.valueOf(Constant.GUEST), Constant.GUEST);
                             LOGGER.info("Install GUEST session with attribute " + Constant.GUEST);
+                            resp.sendRedirect(req.getContextPath() + "/electronics");
+                            return;
                         }
                     }
                 }
@@ -51,6 +55,8 @@ public class AuthorizationSessionFilter implements Filter {
                 if (session.getAttribute(String.valueOf(Constant.GUEST)) == null){
                     session.setAttribute(String.valueOf(Constant.GUEST), Constant.GUEST);
                     LOGGER.info("Install GUEST session with attribute " + Constant.GUEST);
+                    resp.sendRedirect(req.getContextPath() + "/electronics");
+                    return;
                 }
             }
 

@@ -46,12 +46,12 @@
             <div class="fieldDiv">
                 <h2><fmt:message key="first.name.header"/>:</h2>
                 <input class="inputField" name="REGISTRATION_FIRST_NAME" type="text"
-                       placeholder="<fmt:message key="first.name.title.registration"/>" pattern="[A-Za-zА-Яа-яЁё]{2,15}">
+                       placeholder="<fmt:message key="first.name.title.registration"/>" pattern="[A-Za-zА-Яа-яёЁЇїІіЄєҐґ]{2,15}">
             </div>
             <div class="fieldDiv">
                 <h2><fmt:message key="second.name.header"/>:</h2>
                 <input class="inputField" name="REGISTRATION_SECOND_NAME" type="text"
-                       placeholder="<fmt:message key="second.name.title.registration"/>" pattern="[A-Za-zА-Яа-яЁё]{2,15}">
+                       placeholder="<fmt:message key="second.name.title.registration"/>" pattern="[A-Za-zА-Яа-яёЁЇїІіЄєҐґ]{2,15}">
             </div>
             <div class="fieldDiv">
                 <h2><fmt:message key="email.header"/>:</h2>
@@ -67,30 +67,30 @@
             <div class="fieldDiv">
                 <h2><fmt:message key="cityHeader"/>:</h2>
                 <select class="inputField" name="REGISTRATION_CITY" id="REGISTRATION_CITY">
-                    <option value="Kyiv"><fmt:message key="Kyiv"/></option>
-                    <option value="Kharkiv"><fmt:message key="Kharkiv"/></option>
-                    <option value="Odessa"><fmt:message key="Odessa"/></option>
-                    <option value="Dnipro"><fmt:message key="Dnipro"/></option>
-                    <option value="Donetsk"><fmt:message key="Donetsk"/></option>
-                    <option value="Zaporizhia"><fmt:message key="Zaporizhia"/></option>
-                    <option value="Lviv"><fmt:message key="Lviv"/></option>
-                    <option value="Mykolaiv"><fmt:message key="Mykolaiv"/></option>
-                    <option value="Luhansk"><fmt:message key="Luhansk"/></option>
-                    <option value="Sevastopol"><fmt:message key="Sevastopol"/></option>
-                    <option value="Vinnytsia"><fmt:message key="Vinnytsia"/></option>
-                    <option value="Kherson"><fmt:message key="Kherson"/></option>
-                    <option value="Poltava"><fmt:message key="Poltava"/></option>
-                    <option value="Chernihiv"><fmt:message key="Chernihiv"/></option>
-                    <option value="Khmelnytskyi"><fmt:message key="Khmelnytskyi"/></option>
-                    <option value="Chernivtsi"><fmt:message key="Chernivtsi"/></option>
-                    <option value="Cherkasy"><fmt:message key="Cherkasy"/></option>
-                    <option value="Zhytomyr"><fmt:message key="Zhytomyr"/></option>
-                    <option value="Sumy"><fmt:message key="Sumy"/></option>
-                    <option value="Rivne"><fmt:message key="Rivne"/></option>
-                    <option value="Ternopil"><fmt:message key="Ternopil"/></option>
-                    <option value="Ivano-Frankivsk"><fmt:message key="Ivano-Frankivsk"/></option>
-                    <option value="Lutsk"><fmt:message key="Lutsk"/></option>
-                    <option value="Uzhhorod"><fmt:message key="Uzhhorod"/></option>
+                    <option value="<fmt:message key="Kyiv"/>"><fmt:message key="Kyiv"/></option>
+                    <option value="<fmt:message key="Kharkiv"/>"><fmt:message key="Kharkiv"/></option>
+                    <option value="<fmt:message key="Odessa"/>"><fmt:message key="Odessa"/></option>
+                    <option value="<fmt:message key="Dnipro"/>"><fmt:message key="Dnipro"/></option>
+                    <option value="<fmt:message key="Donetsk"/>"><fmt:message key="Donetsk"/></option>
+                    <option value="<fmt:message key="Zaporizhia"/>"><fmt:message key="Zaporizhia"/></option>
+                    <option value="<fmt:message key="Lviv"/>"><fmt:message key="Lviv"/></option>
+                    <option value="<fmt:message key="Mykolaiv"/>"><fmt:message key="Mykolaiv"/></option>
+                    <option value="<fmt:message key="Luhansk"/>"><fmt:message key="Luhansk"/></option>
+                    <option value="<fmt:message key="Sevastopol"/>"><fmt:message key="Sevastopol"/></option>
+                    <option value="<fmt:message key="Vinnytsia"/>"><fmt:message key="Vinnytsia"/></option>
+                    <option value="<fmt:message key="Kherson"/>"><fmt:message key="Kherson"/></option>
+                    <option value="<fmt:message key="Poltava"/>"><fmt:message key="Poltava"/></option>
+                    <option value="<fmt:message key="Chernihiv"/>"><fmt:message key="Chernihiv"/></option>
+                    <option value="<fmt:message key="Khmelnytskyi"/>"><fmt:message key="Khmelnytskyi"/></option>
+                    <option value="<fmt:message key="Chernivtsi"/>"><fmt:message key="Chernivtsi"/></option>
+                    <option value="<fmt:message key="Cherkasy"/>"><fmt:message key="Cherkasy"/></option>
+                    <option value="<fmt:message key="Zhytomyr"/>"><fmt:message key="Zhytomyr"/></option>
+                    <option value="<fmt:message key="Sumy"/>"><fmt:message key="Sumy"/></option>
+                    <option value="<fmt:message key="Rivne"/>"><fmt:message key="Rivne"/></option>
+                    <option value="<fmt:message key="Ternopil"/>"><fmt:message key="Ternopil"/></option>
+                    <option value="<fmt:message key="Ivano-Frankivsk"/>"><fmt:message key="Ivano-Frankivsk"/></option>
+                    <option value="<fmt:message key="Lutsk"/>"><fmt:message key="Lutsk"/></option>
+                    <option value="<fmt:message key="Uzhhorod"/>"><fmt:message key="Uzhhorod"/></option>
                 </select>
             </div>
             <div>

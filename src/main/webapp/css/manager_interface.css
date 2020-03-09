@@ -1,0 +1,28 @@
+#content{
+    padding-top: 3%;
+    text-align: center;
+    margin-top: 3%;
+    display: inline;
+    width: 100%;
+}
+
+#call-work{
+
+}
+
+
+#logout-div{
+    margin-top: 2%;
+}
+
+.logoutBtn{
+    font-weight: bolder;
+    border: 2px #131313 solid;
+    background-color: #ffffff;
+    color: #131313;
+}
+
+.logoutBtn:hover{
+    border: 2px #e69500 solid;
+    background-color: #e69500;
+}

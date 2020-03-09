@@ -7,3 +7,174 @@
 2020-03-03 11:26 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
 2020-03-03 11:26 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
 2020-03-03 11:26 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-03-03 12:18 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 12:18 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 12:18 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 12:18 [TRACE]         DetailsController:    23 - detailsService init
+2020-03-03 12:18 [TRACE]         DetailsController:    29 - Product for details is not null
+2020-03-03 12:18 [TRACE]    ShoppingCartController:    26 - presenterProductFromCookieService initialization
+2020-03-03 12:18 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-03 12:18 [TRACE]          LocaleController:    36 - Install Ukrainian bundle
+2020-03-03 12:18 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-03 12:18 [TRACE]          LocaleController:    32 - Install russian bundle
+2020-03-03 12:18 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-03 12:19 [TRACE]          LogoutController:    25 - Cookie with user info invalidated
+2020-03-03 12:19 [TRACE]          LogoutController:    29 - User session invalidated
+2020-03-03 12:19 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 16:15 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 16:15 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 16:15 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 16:15 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-03-03 16:15 [ INFO]           UserServiceImpl:    31 - Authorization not performed!
+2020-03-03 16:15 [ INFO]   AuthorizationController:    52 - User introduced not correct data
+2020-03-03 16:15 [ INFO]           UserServiceImpl:    31 - Authorization not performed!
+2020-03-03 16:15 [ INFO]   AuthorizationController:    52 - User introduced not correct data
+2020-03-03 16:16 [ INFO]           UserServiceImpl:    28 - Authorization success
+2020-03-03 16:16 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-03-03 16:16 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:16 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 16:24 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 16:24 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 16:24 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 16:24 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 16:24 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:24 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 16:45 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 16:45 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 16:45 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 16:45 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:45 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 16:46 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 16:46 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 16:46 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 16:46 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:46 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 16:47 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 16:47 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 16:47 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 16:47 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:47 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 16:47 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 16:47 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 16:47 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 16:48 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:48 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 16:48 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:48 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 16:48 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 16:49 [TRACE]          OrderServiceImpl:    59 - Return  All User Orders
+2020-03-03 17:12 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 17:12 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 17:12 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 17:12 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 17:12 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 17:15 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 17:15 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 17:15 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 17:15 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 17:15 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 17:15 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 17:19 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 17:19 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 17:19 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 17:19 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 17:19 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 17:24 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 17:24 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 17:24 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 17:24 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 17:24 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 17:25 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 17:25 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 17:25 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 17:25 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 17:25 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 17:46 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 17:46 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 17:46 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 17:48 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 17:48 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 17:48 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 17:48 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 17:48 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 18:06 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:13 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:14 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 18:14 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 18:14 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 18:14 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 18:15 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:19 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:19 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 18:19 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 18:19 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 18:19 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 18:22 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:22 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 18:22 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 18:22 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 18:22 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 18:23 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:23 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 18:23 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 18:24 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 18:24 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 18:29 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:35 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 18:35 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 18:35 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 18:35 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 18:35 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 19:13 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 19:13 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 19:13 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 19:17 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 19:17 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 19:45 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 19:46 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 19:46 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 19:46 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 19:46 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 19:46 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 20:21 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 20:21 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 20:21 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 20:26 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 20:26 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 20:26 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 20:27 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 20:27 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 20:27 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 20:27 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 20:27 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 20:27 [TRACE]   UserInterfaceController:    79 - Updating user name and surname
+2020-03-03 20:31 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 20:31 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 20:31 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 20:33 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 20:34 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 20:34 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 20:35 [TRACE]    RegistrationController:    29 - Init in RegistrationController worked
+2020-03-03 20:35 [TRACE]    DataEnteredHandlerImpl:    22 - Email validation success
+2020-03-03 20:35 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 20:35 [TRACE]    DataEnteredHandlerImpl:    33 - Name validation success
+2020-03-03 20:35 [TRACE]    DataEnteredHandlerImpl:    44 - Phone number validation success
+2020-03-03 20:35 [TRACE]    DataEnteredHandlerImpl:    55 - Password validation success
+2020-03-03 20:35 [ INFO]           UserCreatorImpl:    38 - Entered data in registration fields is correct
+2020-03-03 20:35 [ INFO]    RegistrationController:    51 - User created and added to DB
+2020-03-03 20:35 [ INFO]      FilterForUserInLogin:    29 - User trying to go on login or registration or BLOCKED page, do redirect to electronics page
+2020-03-03 21:00 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 21:00 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 21:01 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 21:02 [TRACE]   AuthorizationController:    23 - Init in AuthorizationController worked
+2020-03-03 21:02 [ INFO]           UserServiceImpl:    28 - Authorization success
+2020-03-03 21:02 [TRACE]   AuthorizationController:    44 - Have UNBLOCKED user in login
+2020-03-03 21:02 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 21:02 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 21:02 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 21:02 [ INFO] AuthorizationSessionFilter:    46 - Install GUEST session with attribute GUEST
+2020-03-03 21:02 [ INFO] AuthorizationSessionFilter:    41 - Reinstall user session from cookie
+2020-03-03 21:06 [ INFO]    InitializationListener:   105 - ContextListener initialized!
+2020-03-03 21:07 [TRACE]     ElectronicsController:    24 - productService init
+2020-03-03 21:07 [ INFO] AuthorizationSessionFilter:    47 - Install GUEST session with attribute GUEST
+2020-03-03 21:07 [ INFO] AuthorizationSessionFilter:    42 - Reinstall user session from cookie

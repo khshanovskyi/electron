@@ -96,7 +96,6 @@ public class UserInterfaceController extends HttpServlet {
         }
     }
 
-
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.getRequestDispatcher("WEB-INF/jsp/user_interface.jsp").forward(req, resp);

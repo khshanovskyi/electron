@@ -4,7 +4,6 @@ E:\electron\src\main\java\ua\electron\service\lowerLevel\userUpdater\IUserUpdate
 E:\electron\src\main\java\ua\electron\controller\menu\roleMenu\AdminInterfaceController.java
 E:\electron\src\main\java\ua\electron\filter\ConstantInstallerFilter.java
 E:\electron\src\main\java\ua\electron\entity\Constant.java
-E:\electron\src\main\java\ua\electron\handler\validation\IValidationInputDataForRegistration.java
 E:\electron\src\main\java\ua\electron\filter\FilterBlockUser.java
 E:\electron\src\main\java\ua\electron\entity\Product.java
 E:\electron\src\main\java\ua\electron\controller\menu\roleMenu\Distributor.java
@@ -20,6 +19,7 @@ E:\electron\src\main\java\ua\electron\dao\impl\ProductDaoMySql.java
 E:\electron\src\main\java\ua\electron\controller\shoppingCart\ShoppingCartController.java
 E:\electron\src\main\java\ua\electron\dao\IProductDao.java
 E:\electron\src\main\java\ua\electron\service\topLevel\shoppingCartService\ICookieShoppingCartService.java
+E:\electron\src\main\java\ua\electron\filter\CharacterSetFilter.java
 E:\electron\src\main\java\ua\electron\service\topLevel\productService\IProductService.java
 E:\electron\src\main\java\ua\electron\controller\order\OrderSuccessController.java
 E:\electron\src\main\java\ua\electron\controller\menu\roleMenu\UserInterfaceController.java
@@ -37,6 +37,7 @@ E:\electron\src\main\java\ua\electron\filter\AuthorizationSessionFilter.java
 E:\electron\src\main\java\ua\electron\entity\builder\OrderBuilder.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\orderInfo\LastUserOrder.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\userCreator\impl\UserCreatorImpl.java
+E:\electron\src\main\java\ua\electron\controller\menu\roleMenu\ManagerInterfaceController.java
 E:\electron\src\main\java\ua\electron\service\topLevel\showDetails\impl\DetailsServiceImpl.java
 E:\electron\src\main\java\ua\electron\service\topLevel\shoppingCartService\impl\PresenterProductFromCookieServiceImpl.java
 E:\electron\src\main\java\ua\electron\dao\IUserDao.java
@@ -52,7 +53,6 @@ E:\electron\src\main\java\ua\electron\controller\login\LoginController.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\shoppingCartActions\PriceCounter.java
 E:\electron\src\main\java\ua\electron\handler\IDataEnteredHandler.java
 E:\electron\src\main\java\ua\electron\controller\login\AuthorizationController.java
-E:\electron\src\main\java\ua\electron\handler\validation\impl\ValidationInputDataForRegistrationImpl.java
 E:\electron\src\main\java\ua\electron\filter\FilterForGuestsToBLOCKEDPage.java
 E:\electron\src\main\java\ua\electron\entity\builder\ProductBuilder.java
 E:\electron\src\main\java\ua\electron\controller\order\OrdersAllInfoForUserController.java
@@ -63,6 +63,7 @@ E:\electron\src\main\java\ua\electron\service\lowerLevel\orderInfo\UserOrdersWit
 E:\electron\src\main\java\ua\electron\entity\Order.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\orderInfo\UserOrdersWithStatusGot.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\orderInfo\UserOrdersWithStatusWaitingAnswer.java
+E:\electron\src\main\java\ua\electron\controller\menu\roleMenu\StorekeeperInterfaceController.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\advancedSearch\AdvancedSearch.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\orderCreator\impl\OrderCreatorImpl.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\orderCreator\IOrderCreator.java
@@ -71,6 +72,7 @@ E:\electron\src\main\java\ua\electron\dao\impl\UserDaoMySql.java
 E:\electron\src\main\java\ua\electron\service\topLevel\userService\IUserService.java
 E:\electron\src\main\java\ua\electron\dao\impl\OrderDaoMySql.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\orderInfo\UserOrdersWithStatusInProcessing.java
+E:\electron\src\main\java\ua\electron\filter\AccessToProfilesFilter.java
 E:\electron\src\main\java\ua\electron\service\lowerLevel\orderInfo\UserOrdersWithStatusSent.java
 E:\electron\src\main\java\ua\electron\controller\menu\roleMenu\BlockedUserController.java
 E:\electron\src\main\java\ua\electron\entity\builder\FullOrderInfoBuilder.java

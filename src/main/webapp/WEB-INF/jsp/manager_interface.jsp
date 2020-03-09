@@ -26,7 +26,28 @@
 
 <body>
 <div id="content">
+    <div id="logout-div">
+        <div id="call-work">
+            <a href="">
+                <div id="div-with-name-href">
+                    Обробка замовлень
+                </div>
+            </a>
+        </div>
+        <div id="create-order">
 
+        </div>
+        <div id="show-all-orders-in-processing-status">
+
+        </div>
+        <div id="show-all-user-orders">
+
+        </div>
+        <form action="logout" method="post">
+            <button class="logoutBtn" name="LOGOUT" title="<fmt:message key="logout.btn"/>">
+                <fmt:message key="logout.btn"/></button>
+        </form>
+    </div>
 </div>
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -90,13 +90,13 @@
         <div class="dropdown-with-settings">
             <h3 class="href-with-info-for-changing"><fmt:message key="change.password"/></h3>
             <form action="user-interface" method="post" class="form-for-change-data">
-                <input class="inputField" type="password" name="OLD_PASSWORD" tabindex="1"
+                <input class="inputField" type="password" name="OLD_PASSWORD" tabindex="3"
                        placeholder="<fmt:message key="your.old.password"/>"
                        pattern="[A-Za-z0-9]{6,21}">
-                <input class="inputField" type="password" name="NEW_PASSWORD" tabindex="2"
+                <input class="inputField" type="password" name="NEW_PASSWORD" tabindex="4"
                        placeholder="<fmt:message key="input.new.password"/>"
                        pattern="[A-Za-z0-9]{6,21}">
-                <input class="inputField" type="password" name="NEW_PASSWORD_CONFIRM" tabindex="3"
+                <input class="inputField" type="password" name="NEW_PASSWORD_CONFIRM" tabindex="5"
                        placeholder="<fmt:message key="confirm.password"/>"
                        pattern="[A-Za-z0-9]{6,21}">
                 <button type="submit" name="SUBMIT_CHANGE_PASSWORD" class="submit-in-interface">
@@ -108,12 +108,12 @@
             <b>${USER_IS_UNBLOCKED.firstName} ${USER_IS_UNBLOCKED.secondName}, </b>
             <fmt:message key="info.about.name.surname"/>
             <form action="user-interface" method="post" class="form-for-change-data">
-                <input class="inputField" name="CHANGE_NAME" type="text" tabindex="1"
+                <input class="inputField" name="CHANGE_NAME" type="text" tabindex="6"
                        placeholder="<fmt:message key="first.name.title.registration"/>"
-                       pattern="[A-Za-zА-Яа-яЁё]{2,15}">
-                <input class="inputField" name="CHANGE_SURNAME" type="text" tabindex="2"
+                       pattern="[A-Za-zА-Яа-яёЁЇїІіЄєҐґ]{2,15}">
+                <input class="inputField" name="CHANGE_SURNAME" type="text" tabindex="7"
                        placeholder="<fmt:message key="second.name.title.registration"/>"
-                       pattern="[A-Za-zА-Яа-яЁё]{2,15}">
+                       pattern="[A-Za-zА-Яа-яёЁЇїІіЄєҐґ]{2,15}">
                 <button type="submit" name="SUBMIT_CHANGE_NAME_SURNAME" class="submit-in-interface">
                     <fmt:message key="btn.submit.in.user.interface"/></button>
             </form>

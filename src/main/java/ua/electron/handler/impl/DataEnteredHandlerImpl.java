@@ -11,7 +11,7 @@ public class DataEnteredHandlerImpl implements IDataEnteredHandler {
     private static final Logger LOGGER = Logger.getLogger(DataEnteredHandlerImpl.class);
 
     private static Pattern checkEmail = Pattern.compile("^[\\w!#$%&’*+/=?`{|}~^-]+(?:\\.[\\w!#$%&’*+/=?`{|}~^-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,6}$");
-    private static Pattern checkName = Pattern.compile("[A-Za-zА-Яа-яЁё]{2,15}");
+    private static Pattern checkName = Pattern.compile("[A-Za-zА-Яа-яёЁЇїІіЄєҐґ]{2,15}");
     private static Pattern checkPhoneNumber = Pattern.compile("[0-9]{10}");
     private static Pattern checkPassword = Pattern.compile("[A-Za-z0-9]{6,21}");
 

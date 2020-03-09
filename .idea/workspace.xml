@@ -6,7 +6,46 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3467f16-51c7-4d69-802b-f1077b3bf8d3" name="Default Changelist" comment="" />
+    <list default="true" id="f3467f16-51c7-4d69-802b-f1077b3bf8d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/electron/controller/menu/roleMenu/UserInterfaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/electron/controller/menu/roleMenu/UserInterfaceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/electron/filter/AuthorizationSessionFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/electron/filter/AuthorizationSessionFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/electron/handler/impl/DataEnteredHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/electron/handler/impl/DataEnteredHandlerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/electron/handler/validation/IValidationInputDataForRegistration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/electron/handler/validation/impl/ValidationInputDataForRegistrationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/manager_interface.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/manager_interface.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user_interface.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user_interface.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/manager_interface.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/manager_interface.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/orders_info.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/orders_info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/electron/controller/menu/roleMenu/AdminInterfaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/electron/controller/menu/roleMenu/AdminInterfaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/electron/controller/menu/roleMenu/Distributor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/electron/controller/menu/roleMenu/Distributor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/electron/controller/menu/roleMenu/UserInterfaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/electron/controller/menu/roleMenu/UserInterfaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/electron/filter/AuthorizationSessionFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/electron/filter/AuthorizationSessionFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/electron/handler/impl/DataEnteredHandlerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/electron/handler/impl/DataEnteredHandlerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/electron/handler/validation/IValidationInputDataForRegistration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/electron/handler/validation/impl/ValidationInputDataForRegistrationImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-03-03" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-03-03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/details_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/details_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/electronics_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/electronics_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/login_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/login_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/orders_005finfo_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/orders_005finfo_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/registration_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/registration_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/shopping_005fcart_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/shopping_005fcart_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/user_005finterface_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/user_005finterface_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/user_005finterface_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/electron.ua/org/apache/jsp/WEB_002dINF/jsp/user_005finterface_jsp.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +94,13 @@
         <option value="Jsp File" />
         <option value="JavaScript File" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="CSS File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IntelliJConfiguration">
     <option name="PROPERTY_FILES">
@@ -88,6 +130,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1U4xXeqmTAOxQ68QXleOvDkvZXg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -95,16 +138,17 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46349207" />
-    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -359,7 +403,7 @@
       <workItem from="1582405250719" duration="16183000" />
       <workItem from="1582535006132" duration="1798000" />
       <workItem from="1582543067261" duration="863000" />
-      <workItem from="1582560588516" duration="128724000" />
+      <workItem from="1582560588516" duration="148410000" />
     </task>
     <servers />
   </component>
@@ -368,6 +412,17 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
